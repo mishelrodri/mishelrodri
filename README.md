@@ -1,6 +1,7 @@
-## Hello! My name is Mishel ✌
-<a href="https://github.com/mishelrodri">🚀Look my Github!</a>
-   <p> I Love learn about new programming languages and improve my skills !!</p>
+## Hello! My name is Mishel ✌ 
+
+
+   <p align="center"> 🧩 I Love learn about new programming languages and improve my skills !! ⬇</p>
   <h3>
  👾 Principal Stack
 </h3> 
