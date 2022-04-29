@@ -1,8 +1,22 @@
 ## Hello! My name is Mishel ✌ 
 
+```javascript
+console.log("🧩 I Love learn about new programming languages and improve my skills !!")
+{
+var: "We can do this!!"
+}
+```
 
-   <p align="center"> 🧩 I Love learn about new programming languages and improve my skills !! ⬇</p>
+### 🌱 I'm currently learning... / Last Projects
+
+- JavaScript,Laravel 
+- Oracle,SQL
+- Networks and technical support
+
+
   <h3>
+   
+   <hr>
  👾 Principal Stack
 </h3> 
   <h4>🎨 ꜰʀᴏɴᴛᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ</h4>
