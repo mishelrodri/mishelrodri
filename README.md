@@ -9,7 +9,7 @@ var: "We can do this!!"
 
 ### 🌱 I'm currently learning... / Last Projects
 
-- JavaScript,Laravel 
+- Java and JavaScript 
 - Oracle,SQL
 - Networks and technical support
 
